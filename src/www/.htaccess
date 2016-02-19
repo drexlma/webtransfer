@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^file/(.*)/(.*)/(.*)/(.*)/$					index.php?id=$1&ac=$2&uid=$3&uc=$4
