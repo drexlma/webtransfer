@@ -9,4 +9,7 @@ webTransfer: einfacher Dateiaustausch von großen Dateien per E-Mail
 * Kopieren der Daten
 * Datenbank importieren /install/x.sql
 * Datenbankeinstellungen /config/db.php
-*
+
+
+
+https://www.dbe.academy/
